@@ -1,0 +1,29 @@
+{
+  "messages": {
+    "Product_Name": "Product Name",
+    "Invoice_Calculator": "Invoice Calculator",
+    "Name": "Name",
+    "Price": "Price",
+    "Count": "Count",
+    "Add": "Add",
+    "Delete": "Delete",
+    "Total": "Total",
+    "Sum": "Sum",
+    "No_Invoices": "No Invoices",
+    "validations": {
+      "required_field": "Field is required",
+      "should_not_be_same": "Product with same name exists",
+      "should_be_less": "Should be less than {maxValue}",
+      "should_be_greather": "Should be be greater than {minValue}",
+      "max_length": "Length should be less than {valueMaxLenght}"
+    }
+  },
+  
+  "numberFormats": {
+    "currency": {
+      "style": "currency",
+      "currency": "USD",
+      "notation": "standard"
+    }
+  }
+}
